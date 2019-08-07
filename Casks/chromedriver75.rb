@@ -1,4 +1,4 @@
-cask 'chromedriver' do
+cask 'chromedriver75' do
   version '75.0.3770.140'
   sha256 '34eda7761e4059c0289a81c2a83ad3c63f5187afa2726b8f7b5f5e635275c406'
 
